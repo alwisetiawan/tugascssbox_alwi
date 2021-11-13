@@ -1,0 +1,39 @@
+.box1{
+    width: 250px;
+    height: 600px;
+    background-color: rgb(252, 252, 1);
+    border-radius: 0px;
+    position: relative;
+    top: 45px;
+    left: 29px;
+}
+.box2{
+    width: 250px;
+    height: 600px;
+    border-radius: 0px;
+    background-color: orangered;
+    position: absolute;
+    top: 50px;
+    right: 55%;
+
+}
+.box3{
+    width: 250px;
+    height: 600px;
+    border-radius: 0px;
+    position: absolute;
+    top: 50px;
+    right: 30%;
+    background-color:rgb(118, 236, 118)
+}
+.box4{
+    width: 250px;
+    height: 600px;
+    border-radius: 0px;
+    background-color: rgb(66, 212, 248);
+    position: absolute;
+    top: 50px;
+    right: 5%;
+
+
+}
